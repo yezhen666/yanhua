@@ -173,7 +173,7 @@ var config = function () {
 			color6: '#00ffff',
 			color7: '#fff'
 		},
-		dialogue: [{ type: 6, name: 'yz', txt: '快过年了，我们去放烟花吧！' }, { type: 2, name: '欣欣', txt: '天还这么亮，现在放烟花也不好看。' }, { type: 2, name: '欣欣', txt: '再说你那有烟花吗？' }, { type: 6, name: 'yz', txt: '我当然有烟花啦。' }, { type: 6, name: 'yz', txt: '你那有打火机吗？' }, { type: 2, name: '欣欣', txt: '没有呀～' }, { type: 6, name: 'yz', txt: '那你是怎么点燃我的心的？' }, { type: 2, name: '欣欣', txt: '。。。' }, { type: 2, name: '欣欣', txt: '可是我的心还没有被你点燃呀。' }, { type: 6, name: 'yz', txt: '别慌，我去买个打火机先。' }, { type: 2, name: '欣欣', txt: '打火机可点不燃我的心。' }, { type: 6, name: 'yz', txt: '天快黑了，我要为你点燃整片天空。' }],
+		dialogue: [{ type: 6, name: 'yz', txt: '520了，我们去放烟花吧！' }, { type: 2, name: '欣欣', txt: '天还这么亮，现在放烟花也不好看。' }, { type: 2, name: '欣欣', txt: '再说你那有烟花吗？' }, { type: 6, name: 'yz', txt: '我当然有烟花啦。' }, { type: 6, name: 'yz', txt: '你那有打火机吗？' }, { type: 2, name: '欣欣', txt: '没有呀～' }, { type: 6, name: 'yz', txt: '那你是怎么点燃我的心的？' }, { type: 2, name: '欣欣', txt: '。。。' }, { type: 2, name: '欣欣', txt: '可是我的心还没有被你点燃呀。' }, { type: 6, name: 'yz', txt: '别慌，我去买个打火机先。' }, { type: 2, name: '欣欣', txt: '打火机可点不燃我的心。' }, { type: 6, name: 'yz', txt: '天快黑了，我要为你点燃整片天空。' }],
 		// 阶段二
 		sunset: 8000,
 
